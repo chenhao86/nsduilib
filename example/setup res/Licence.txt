@@ -1,0 +1,6 @@
+                     协议部分
+                                                               
+          该插件由最初由TBCIA团队开发。
+          后经jeppeter修正，如有疑问，请联系jeppeter@gmail.com
+
+   
