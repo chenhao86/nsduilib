@@ -1,6 +1,8 @@
 ; 选择压缩方式
 ;SetCompressor /SOLID LZMA
 
+Unicode true
+
 ; 引入的头文件
 !include "nsDialogs.nsh"
 !include "FileFunc.nsh"
